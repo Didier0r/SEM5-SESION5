@@ -1,7 +1,7 @@
 <!-- Hoja de estilo -->
 <?php include_once 'style.php' ?>
 
-<!-- Página de la factura -->
+<!-- Pagina de la factura -->
 <page backtop="15mm" backbottom="15mm" backleft="15mm" backright="15mm" style="font-size: 12pt; font-family: arial">
     <table cellspacing="0" style="width: 100%;">
         <tr>
